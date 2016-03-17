@@ -1,0 +1,2 @@
+# MetasequoiaTransforme
+Metasequoiaで作成したファイルを読み込み、全てのオブジェクトの 頂点を平行移動させ、結果を別のファイルに保存する。
