@@ -1,0 +1,9 @@
+c:\users\nao\documents\visual studio 2015\Projects\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\Nao\Documents\Visual Studio 2015\Projects\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\Nao\Documents\Visual Studio 2015\Projects\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\Nao\Documents\Visual Studio 2015\Projects\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\Nao\Documents\Visual Studio 2015\Projects\ex2\ex2\obj\Debug\ex2.pdb
+C:\Users\Nao\Documents\Visual Studio 2015\Projects\ex2\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+C:\Users\Nao\Desktop\課題\CGレンダリング\ex3\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\Nao\Desktop\課題\CGレンダリング\ex3\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\Nao\Desktop\課題\CGレンダリング\ex3\ex2\ex2\obj\Debug\ex2.pdb
